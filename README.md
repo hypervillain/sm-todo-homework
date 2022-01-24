@@ -20,11 +20,11 @@ The app can:
 - save to FileSystem via an API call (file name: todos.json)
     - expected format of todos is validated server-side
 - fetch todos.json on page load
-- deleting a todo
+- delete a todo
 
 Test frameworks installed are jest and cypress.
 You're free to install other tools.
 
 Action for QA engineer:
-- looking at the scope of functionality, create an E2E test using Cypress.
-- 
+- Design & create an E2E test using Cypress.
+- Design & create an Integration test using Jest.
